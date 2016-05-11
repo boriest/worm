@@ -1,30 +1,30 @@
 # Sommaire
-## Introduction
-* [Présentation de l'entreprise](intro/presentation.md)
-  * [Imakumo](intro/presentation.md#Imakumo)
-  * [ServiceNow](intro/presentation.md#ServiceNow)
-  * [Missions](intro/presentation.md#Missions)
-* [Contexte du projet](intro/context.md)
-  * [Eve](intro/context.md#eve)
-  * [Gestion de planning](intro/context.md#planning)
-* [Sujet du mémoire](subject/subject.md)
+* Introduction
+  * [Présentation de l'entreprise](intro/presentation.md)
+    * [Imakumo](intro/presentation.md#Imakumo)
+    * [ServiceNow](intro/presentation.md#ServiceNow)
+    * [Missions](intro/presentation.md#Missions)
+  * [Contexte du projet](intro/context.md)
+    * [Eve](intro/context.md#eve)
+    * [Gestion de planning](intro/context.md#planning)
+  * [Sujet du mémoire](subject/subject.md)
 
-## Programmation fonctionnelle
-* [Introduction]()
-  * [Concepts]()
-  * [Pourquoi la programmation fonctionnelle]()
-  * [Langages]()
-* [Théorie]()
-  * [...]()
-* [État de l'art en JavaScript]()
-  * [...différentes librairies...]()
+* Programmation fonctionnelle
+  * [Introduction]()
+    * [Concepts]()
+    * [Pourquoi la programmation fonctionnelle]()
+    * [Langages]()
+  * [Théorie]()
+    * [...]()
+  * [État de l'art en JavaScript]()
+    * [...différentes librairies...]()
 
 ## Un cas concret: une application de gestion de planning
-* [Pourquoi utiliser la programmation fonctionnelle]()
-  * est-ce un bon choix ici ? (niveaux hétérogènes de dev, temps de formation)
-* [Analyse de la mise en oeuvre]()
-  * formation des consultants, maintenabilité
-  * quand choisir la programmation fonctionnelle
+  * [Pourquoi utiliser la programmation fonctionnelle]()
+    * est-ce un bon choix ici ? (niveaux hétérogènes de dev, temps de formation)
+  * [Analyse de la mise en oeuvre]()
+    * formation des consultants, maintenabilité
+    * quand choisir la programmation fonctionnelle
 
 ## Bibliographie
 * [Ouvrages](biblio/ouvrages.md)
